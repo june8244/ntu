@@ -1,0 +1,23 @@
+body
+{
+    
+}
+
+
+    font size: 16px;
+    font-family: ;
+a:hover
+{
+     text-decoration:underline;
+}
+.container
+{
+        width :1024px;
+        background: #369;
+        margin: 0 auto;
+/*up and down is 0 , left right is auto*/
+}
+.bg-light   
+{
+    background: #404549;
+}

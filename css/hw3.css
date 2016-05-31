@@ -1,0 +1,35 @@
+.sidebar
+{
+    width: 300px;
+    padding: 5px;
+}
+
+.pic
+{
+    width: 290px;
+    height: 150px;
+}
+
+.context
+{
+    padding: 20px;
+}
+
+.title
+{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.date
+{
+    font-style: italic;
+    color: #ccc;
+    padding-bottom: 20px
+}
+
+.more
+{
+    color: green;
+    font-size: 18px;
+}
